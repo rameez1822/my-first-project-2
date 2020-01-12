@@ -16,7 +16,12 @@
 }
 
 /*-- start navbar---*/
-
+.navbar{
+    padding-top: 0.5rem;
+    padding-right: 1.3;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+}
 
 /*-- end navbar---*/
 
@@ -25,6 +30,7 @@
 .bgimage-fooldal {
    height: 100vh;
    width: 100%;
+   margin: 0 auto;
    background: url(../images/bodybuilding-close-up-dumbbells-equipment-260352.jpg) no-repeat center center fixed; 
   background-size: cover;
   display: flexbox;
@@ -148,4 +154,22 @@ color: #f8f9fa;
 .card-heading-2{
     font-size: 1.125rem;
     line-height: 1.25;
+}
+
+/*---sign-up-image---*/
+
+
+.form-selection{
+    clear: both;
+    background: url(../images/person-holding-barbell-841128.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    height: 100vh;
+   width: 100%;
+    background-position: center;
+     align-items: center;
+  justify-content: center;
+    height: 900px;
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
