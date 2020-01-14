@@ -1,3 +1,131 @@
 milestone-project/healthy-woman-legs-dark-136404.jpg
 milestone-project/images/color-colour-fitness-health-39671.jpg
 milestone-project/images/an-on-treadmill-1954524.jpg
+
+
+<section class=" jumbotron row align-items-center moto-1 ">
+   
+    <div class="col">
+<h3 class="moto">WE HAVE WHAT YOU NEED</h3>
+<p class="moto"">Whether you’re just starting out or an old hand, you’ll find what you need for your fitness journey.</p>
+</div>
+  </section>
+
+
+
+
+
+
+
+
+  <div id="demo" class="carousel slide" data-ride="carousel">
+
+  <!-- Indicators -->
+  <ul class="carousel-indicators">
+    <li data-target="#demo" data-slide-to="0" class="active"></li>
+    <li data-target="#demo" data-slide-to="1"></li>
+    <li data-target="#demo" data-slide-to="2"></li>
+  </ul>
+  
+  <!-- The slideshow -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="milestone-project/images/an-on-treadmill-1954524.jpg" alt="Los Angeles" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="milestone-project/images/an-on-treadmill-1954524.jpg" alt="Chicago" width="1100" height="500">
+    </div>
+    <div class="carousel-item">
+      <img src="milestone-project/images/an-on-treadmill-1954524.jpg" alt="New York" width="1100" height="500">
+    </div>
+  </div>
+  
+  <!-- Left and right controls -->
+  <a class="carousel-control-prev" href="#demo" data-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </a>
+  <a class="carousel-control-next" href="#demo" data-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </a>
+</div>
+
+
+
+
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#">Fitness First</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+      <a class="nav-item nav-link" href="#">Features</a>
+      <a class="nav-item nav-link" href="#">About</a>
+      
+    </div>
+  </div>
+</nav>
+
+
+.offer-cards {
+    display: inline-table;
+    justify-content: center;
+    align-items: center;
+
+}
+
+ <div class="jumbotron" id="offers">
+      <div class="container-fluid text-center">
+        <div class="col-sm-8 mx-auto card-heading">
+          <h2 class="section-heading uppercase">Special Offers</h2>
+          <hr>
+          <p class="lead text-center card-heading-2">Choose the monthly subscription that suits you best.
+And start exercising on your terms.</p>
+          <br>
+        </div>
+      </div>
+
+
+ 
+        <div class="row">
+        <div class="containerfluid card-3">
+          <div class="col-md-3 offer-cards">
+                <div class="card-2">
+                    <div class="card-body">
+                        <h1 class="card-title card-name">Students</h1>
+                        <h2 class="card-subtitle mb-2 card-text-1">199:-</h2>
+                        <h3 class="card-text">Per Month
+                        <br>
+                        + Starting fee 249:-</h3>
+                   </div>
+                </div>
+            </div>
+            
+            <div class="col-md-3 offer-cards">
+                <div class="card-2">
+                    <div class="card-body">
+                        <h1 class="card-title card-name">Ordinary</h1>
+                        <h2 class="card-subtitle mb-2 card-text-1">299:-</h2>
+                        <h3 class="card-text">Per Month
+                        <br>
+                        + Starting fee 249:-</h3>
+                   </div>
+                </div>
+            </div>
+
+                
+            <div class="col-md-3 offer-cards">
+                <div class="card-2">
+                    <div class="card-body">
+                        <h1 class="card-title card-name">Pensioner</h1>
+                        <h2 class="card-subtitle mb-2 card-text-1">199:-</h2>
+                        <h3 class="card-text">Per Month
+                        <br>
+                        + Starting fee 249:-</h3>
+                   </div>
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>

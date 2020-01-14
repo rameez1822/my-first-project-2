@@ -18,9 +18,23 @@
 /*-- start navbar---*/
 .navbar{
     padding-top: 0.5rem;
-    padding-right: 1.3;
+    padding-right: 1.5;
     padding-bottom: 0.5rem;
     padding-left: 1rem;
+}
+
+.logo{
+   
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    font-size: 2em;
+    -webkit-transition: color 0.5s;
+    transition: all 0.35s ease-in-out;
+    }
+
+    .logo:hover {
+    background: #28a745;
 }
 
 /*-- end navbar---*/
@@ -31,7 +45,7 @@
    height: 100vh;
    width: 100%;
    margin: 0 auto;
-   background: url(../images/bodybuilding-close-up-dumbbells-equipment-260352.jpg) no-repeat center center fixed; 
+   background: url(../images/bodybuilding-close-up-dumbbells-equipment-260352.jpg) no-repeat center center; 
   background-size: cover;
   display: flexbox;
   align-items: center;
@@ -73,10 +87,9 @@ color: #f8f9fa;
 /*----cards----*/
 
 .offer-cards {
-    display: inline-table;
+    display: inline-flex;
     justify-content: center;
-    align-items: center;
-
+    align-items: flex-start;
 }
 .col-xs-6 {
     align-items: center;
@@ -182,7 +195,7 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 .social-links li a i:hover {
-    background: #e84610;
+    background: green;
 }
 
 #footer-details {
