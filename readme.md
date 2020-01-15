@@ -1,7 +1,5 @@
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rameez1822/my-first-project-2) 
-
-Your Project's Name
-One or two paragraphs providing an overview of your project.
+Haley Schafer Portfolio
 
 Essentially, this part is your sales pitch.
 

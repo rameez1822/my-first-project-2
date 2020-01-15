@@ -17,14 +17,14 @@
 
 /*-- start navbar---*/
 .navbar{
-    padding-top: 0.5rem;
-    padding-right: 1.5;
-    padding-bottom: 0.5rem;
+    padding-top: 0.2rem;
+    padding-right: 1;
+    padding-bottom: 0.2rem;
     padding-left: 1rem;
 }
 
 .logo{
-   
+    color:#28a745;
     font-style: italic;
     font-family: 'Playfair Display', serif;
     font-weight: 400;
@@ -50,7 +50,6 @@
   display: flexbox;
   align-items: center;
   justify-content: center;
-  margin-right: 0px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -72,9 +71,10 @@
      color: #f8f9fa;
 }
 
-.hero_desc{
+.hero-desc{
 color: #f8f9fa;
 }
+
 .jumbotron{
     margin-bottom: 0;
     background-color: #e9ecef;
@@ -82,7 +82,11 @@ color: #f8f9fa;
 }
 /*----features-----*/
 
-
+ .callout-heading{
+    font-style: italic;
+    font-family: 'Playfair Display', serif;
+    color: #28a745;
+ }
 /*----end hero image and text----*/
 /*----cards----*/
 
@@ -96,22 +100,19 @@ color: #f8f9fa;
 }
 
 .card-2{
-  box-shadow: 0 4px 4px 0 rgba(0,0,0,.25);
+  box-shadow: 0 15px 15px 0 rgba(0,0,0,.25);
   text-align: center;
   padding: 2.5rem;
   margin-bottom: .625rem;
   margin-top: .625rem;
    background-color: #343a40;
    color: #fff!important;
-   margin-left: .9375rem;
-    margin-right: .9375rem;
+   margin-left: 1.9375rem;
+    margin-right: 1.9375rem;
     max-width: 16.75rem;
     width: 18.75rem;
     box-sizing: border-box;
     align-items: center;
-    transition: all .3s ease-in;
-    -moz-transition: all .3s ease-in;
-    -webkit-transition: all .3s ease-in;
 }
 
 .card-3{
@@ -195,9 +196,37 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 .social-links li a i:hover {
-    background: green;
+    background: #28a745;
 }
 
 #footer-details {
     padding: 20px;
+}
+
+
+/*-----Form------*/
+
+.form-selection {
+    height: 85vh;
+   width: 100%;
+   margin: 0 auto;
+   background: url(../images/person-holding-barbell-841128.jpg) no-repeat center center; 
+  background-size: cover;
+  display: flexbox;
+  align-items: center;
+  justify-content: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.form-body{
+    width: 50%;
+      display: inline-table;
+    padding-top: 5rem;
+  margin-bottom: .625rem;
+  margin-top: 3.625rem;
+   color: #fff!important;
+  margin: 0;
+  color: #343a40;
 }
