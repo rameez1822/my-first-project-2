@@ -1,8 +1,9 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rameez1822/my-first-project-2) 
-Haley Schafer Portfolio
+# Fitness First Gym 
 
-Essentially, this part is your sales pitch.
-
+As my first project i choose one of the suggested idea of building a gym website. Training and working out is somthing that i like alot 
+So for my first project i wanted to creat a good user expeience which can inspire users to sign up and start working out and avail the benefits 
+Gym & excercise
+ 
 UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
