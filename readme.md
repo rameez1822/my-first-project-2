@@ -25,10 +25,10 @@ For Users, I wanted to provide them a website where they can find what services 
 and our opening times etc , so a user have a nice whole picture of us as a gym 
 
 ## Structure
-In the Hero section, I wanted users to sign up as by offering "free trial"  and motivational "hero text"
-In the benefits section , I wanted users to see the benefits of joining us for example "24/7 opening times"
-In the Carousel section, I wanted to show users the features we provide
-In the cards section , i wanted to shoe users the fee struture and spcial offers we have 
+In the Hero section, I wanted users to sign up as by offering "free trial"  and motivational "hero text".
+In the benefits section , I wanted users to see the benefits of joining us for example "24/7 opening times".
+In the Carousel section, I wanted to show users the features we provide.
+In the cards section , i wanted to shoe users the fee struture and spcial offers we have.
 
 ## Skeleton
 
@@ -68,7 +68,7 @@ https://www.puregym.com/
 - The "Cards" section content was copied from 
 https://se.fitness24seven.com/
 
--The "hero image text" was copied from 
+- The "hero image text" was copied from 
 https://www.fitnessfirst.com.sg/
 
 ### Media
@@ -77,9 +77,9 @@ https://www.fitnessfirst.com.sg/
 ## Acknowledgements
 
 - I received inspiration for this project from 
-https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/
-https://se.fitness24seven.com/
-https://www.sats.se/
+-https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/
+-https://se.fitness24seven.com/
+-https://www.sats.se/
 
 
 
