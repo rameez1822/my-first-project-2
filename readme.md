@@ -76,10 +76,10 @@ https://www.fitnessfirst.com.sg/
 
 ## Acknowledgements
 
-- I received inspiration for this project from 
--https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/
--https://se.fitness24seven.com/
--https://www.sats.se/
+- I received design inspiration for this project from 
+- https://code-institute-solutions.github.io/StudentExampleProjectGradeFive/
+- https://se.fitness24seven.com/
+- https://www.sats.se/
 
 
 
