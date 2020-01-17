@@ -40,7 +40,9 @@ to provide a smooth and nice look.
 
 ## Testing
 
+HTML and CSS has been test on different validators to check for errors 
 
+This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (iPhone 4, 5, 7: Chrome and Safari, iPad, Samsung Galaxy) to ensure compatibility and responsiveness.
 
 # Features
 - Jumbotron (bootstrap)
