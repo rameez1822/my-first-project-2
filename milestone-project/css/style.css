@@ -29,6 +29,7 @@
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     font-size: 2em;
+    text-shadow: 2px 2px #6b9475;
     -webkit-transition: color 0.5s;
     transition: all 0.35s ease-in-out;
     }
@@ -68,7 +69,7 @@
 .hero_title {
     font-weight: 600;
     font-size: 4em;
-     color: #f8f9fa;
+    color: #f8f9fa;
 }
 
 .hero-desc{
@@ -86,7 +87,9 @@ color: #f8f9fa;
  .callout-heading{
     font-style: italic;
     font-family: 'Playfair Display', serif;
-    color: #28a745;
+    color: #6b9475;
+    margin-bottom:.7em;
+    margin-top: .7em;
  }
 
 /*----cards----*/
@@ -128,8 +131,8 @@ color: #f8f9fa;
 .card-text-1{
     text-align: center;
     color: #fafafa;
-    text-shadow: 5px;
-    font-weight: 500px;
+    text-shadow: 2px 2px #6b9475;
+    font-weight: 500;
     }
 
     .project-cards {
@@ -145,8 +148,8 @@ color: #f8f9fa;
 .card-name{
     text-align: center;
     color: #fafafa;
-    text-shadow: 5px;
-    font-weight: 600px;
+    text-shadow: 2px 2px #6b9475;
+    font-weight: 600;
 }
 
 /*---carousel-----*/
@@ -156,18 +159,13 @@ color: #f8f9fa;
       height: 100%;
   }
   
-.card-heading{
+.card-heading {
     margin: 0;
-    padding: 0;
-    font-size: 1.625rem;
+    padding:0;
     font-weight: 700;
     line-height: 1.08;
     display: block;
-    font-size:1.5em;
-    margin-block-start: 0.83em;
-    margin-block-end: 0.83em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    font-size:1.5 em;
 }
 
 .card-heading-2{
@@ -215,7 +213,7 @@ footer {
    margin: 0 auto;
    background: url(../images/person-holding-barbell-841128.jpg) no-repeat center center; 
   background-size: cover;
-  display: flexbox;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   -webkit-background-size: cover;
@@ -224,12 +222,11 @@ footer {
 }
 
 .form-body{
-    width: 50%;
-      display: inline-table;
-    padding-top: 5rem;
-  margin-bottom: .625rem;
-  margin-top: 3.625rem;
-   color: #fff!important;
-  margin: 0;
-  color: #343a40;
-}
+width: 50%;
+display: inline-table;
+padding-top: 5rem;
+margin-bottom: .625rem;
+margin-top: 3.625rem;
+color: #fff!important;
+margin: 0;
+  }
