@@ -1,13 +1,8 @@
 # Fitness First Gym 
 
-As my first project i choose one of the suggested idea of building a gym website. Training and working out is somthing that i like alot 
-So for my first project i wanted to creat a good user expeience which can inspire users to sign up and start working out and avail the benefits 
-Gym & excercise
+As my first project i choose one of the suggested idea of building a gym website. Training and working out is something that everybody should take seriously.
+So for my first project i wanted to creat a good user expeience which can inspire users to sign up and start working out and avail the benefits of Gym & excercise
  
- ## Demo
-A live demo can be found [here](https://rameez1822.github.io/).
-
-
 # UX
 
 This is a static gym website with simple and sleek design. The whole purpose of creating this site is to provide a simple interface and decent design to make it
@@ -34,7 +29,7 @@ In the benefits section , I wanted users to see the benefits of joining us for e
 In the Carousel section, I wanted to show users the features we provide.
 In the cards section , i wanted to shoe users the fee struture and spcial offers we have.
 
-## Skeleton
+
 
 
 ## Surface
@@ -48,6 +43,7 @@ to provide a smooth and nice look.
 
 
 # Features
+- Jumbotron (bootstrap)
 - Scrollspy navbar (Bootstrap)
 - Carousel (Jquery)
 - Responsive website (bootstrap)
@@ -57,14 +53,11 @@ to provide a smooth and nice look.
 - embedded feature to put videos
 - Js features into the "offer cards"
 
-# Deployment
-This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
 
-To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://rameez1822.github.io/ into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
 ## Credits
-- https://www.w3schools.com/
-- https://www.stackpath.com/
+https://www.w3schools.com/
+https://www.stackpath.com/
 
 
 # Technologies
@@ -96,5 +89,5 @@ https://www.fitnessfirst.com.sg/
 - https://www.sats.se/
 
 
-
+**This is for educational use.** 
  
