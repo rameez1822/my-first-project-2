@@ -4,6 +4,10 @@ As my first project i choose one of the suggested idea of building a gym website
 So for my first project i wanted to creat a good user expeience which can inspire users to sign up and start working out and avail the benefits 
 Gym & excercise
  
+ ## Demo
+A live demo can be found [here](https://rameez1822.github.io/).
+
+
 # UX
 
 This is a static gym website with simple and sleek design. The whole purpose of creating this site is to provide a simple interface and decent design to make it
@@ -53,11 +57,14 @@ to provide a smooth and nice look.
 - embedded feature to put videos
 - Js features into the "offer cards"
 
+# Deployment
+This site is hosted using GitHub pages, deployed directly from the master branch. The deployed site will update automatically upon new commits to the master branch. In order for the site to deploy correctly on GitHub pages, the landing page must be named index.html.
 
+To run locally, you can clone this repository directly into the editor of your choice by pasting git clone https://rameez1822.github.io/ into your terminal. To cut ties with this GitHub repository, type git remote rm origin into the terminal.
 
 ## Credits
-https://www.w3schools.com/
-https://www.stackpath.com/
+- https://www.w3schools.com/
+- https://www.stackpath.com/
 
 
 # Technologies
