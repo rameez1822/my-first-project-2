@@ -35,7 +35,7 @@ In the cards section , i wanted to shoe users the fee struture and spcial offers
 
 ## Surface
 
-The grey colour scheme was inspired by number of websites with my own touch of little green
+The grey colour scheme was inspired by number of defferent websites with my own touch of little green
 to provide a smooth and nice look. 
 
 
@@ -43,10 +43,16 @@ to provide a smooth and nice look.
 
 
 
-## Features
-1- Scrollspy navbar (Bootstrap)
-2- Carousel (Jquery)
-3- Responsive (bootstrap)
+# Features
+- Scrollspy navbar (Bootstrap)
+- Carousel (Jquery)
+- Responsive website (bootstrap)
+-
+# Features Left to Implement
+- Enable form to submit
+- embedded feature to put videos
+- Js features into the "offer cards"
+
 
 
 ## Credits
@@ -55,11 +61,12 @@ https://www.stackpath.com/
 
 
 # Technologies
-HTML
-CSS
-Bootstrap (4.3.1)
-Jquery
-Googlefonts
+- HTML
+- CSS
+- Bootstrap (4.3.1)
+- Jquery
+- Googlefonts
+- Fontawesome
 
 ### Content
 - The text for section "benefits" was copied from the
