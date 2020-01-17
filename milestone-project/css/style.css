@@ -18,7 +18,7 @@
 /*-- start navbar---*/
 .navbar{
     padding-top: 0.2rem;
-    padding-right: 1;
+    padding-right: 1em;
     padding-bottom: 0.2rem;
     padding-left: 1rem;
 }
@@ -29,13 +29,12 @@
     font-family: 'Playfair Display', serif;
     font-weight: 400;
     font-size: 2em;
+    text-shadow: 2px 2px #6b9475;
     -webkit-transition: color 0.5s;
     transition: all 0.35s ease-in-out;
     }
 
-    .logo:hover {
-    background: #28a745;
-}
+  
 
 /*-- end navbar---*/
 
@@ -47,7 +46,7 @@
    margin: 0 auto;
    background: url(../images/bodybuilding-close-up-dumbbells-equipment-260352.jpg) no-repeat center center; 
   background-size: cover;
-  display: flexbox;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   -webkit-background-size: cover;
@@ -86,7 +85,8 @@ color: #f8f9fa;
  .callout-heading{
     font-style: italic;
     font-family: 'Playfair Display', serif;
-    color: #28a745;
+    color: #6b9475;
+    margin:0.7em;
  }
 
 /*----cards----*/
@@ -128,8 +128,8 @@ color: #f8f9fa;
 .card-text-1{
     text-align: center;
     color: #fafafa;
-    text-shadow: 5px;
-    font-weight: 500px;
+    text-shadow: 2px 2px #6b9475;
+    font-weight: 500;
     }
 
     .project-cards {
@@ -145,8 +145,8 @@ color: #f8f9fa;
 .card-name{
     text-align: center;
     color: #fafafa;
-    text-shadow: 5px;
-    font-weight: 600px;
+    text-shadow: 2px 2px #6b9475;
+    font-weight: 600;
 }
 
 /*---carousel-----*/
@@ -159,11 +159,11 @@ color: #f8f9fa;
 .card-heading{
     margin: 0;
     padding: 0;
-    font-size: 1.625rem;
+    font-size: 1.625 em;
     font-weight: 700;
     line-height: 1.08;
     display: block;
-    font-size:1.5em;
+    font-size:1.5 em;
     margin-block-start: 0.83em;
     margin-block-end: 0.83em;
     margin-inline-start: 0px;
