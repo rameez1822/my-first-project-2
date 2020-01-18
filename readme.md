@@ -61,8 +61,8 @@ This site was tested across multiple browsers (Chrome, Safari, Internet Explorer
 
 
 ## Credits
-https://www.w3schools.com/
-https://www.stackpath.com/
+- https://www.w3schools.com/
+- https://www.stackpath.com/
 
 
 # Technologies
