@@ -1,13 +1,15 @@
 # Fitness First Gym 
 
-As my first project i choose one of the suggested idea of building a gym website. Training and working out is somthing that i like alot 
-So for my first project i wanted to creat a good user expeience which can inspire users to sign up and start working out and avail the benefits 
-Gym & excercise
+As my first project i choose one of the suggested idea of building a gym website. Training and working out is something that everybody should take seriously.
+So for my first project i wanted to creat a good user expeience which can inspire users to sign up and start working out and avail the benefits of Gym & excercise
  
 # UX
 
 This is a static gym website with simple and sleek design. The whole purpose of creating this site is to provide a simple interface and decent design to make it
 appealing to the users 
+
+## Demo
+A live demo can be found [here](https://rameez1822.github.io/).
 
 ## User stories 
 
@@ -30,20 +32,23 @@ In the benefits section , I wanted users to see the benefits of joining us for e
 In the Carousel section, I wanted to show users the features we provide.
 In the cards section , i wanted to shoe users the fee struture and spcial offers we have.
 
-## Skeleton
+
 
 
 ## Surface
 
-The grey colour scheme was inspired by number of defferent websites with my own touch of little green
+The grey colour scheme was inspired by number of different websites with my own touch of little green
 to provide a smooth and nice look. 
 
 
 ## Testing
 
+HTML and CSS has been tested on different validators to check for errors 
 
+This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (iPhone 4, 5, 7: Chrome and Safari, iPad, Samsung Galaxy) to ensure compatibility and responsiveness.
 
 # Features
+- Jumbotron (bootstrap)
 - Scrollspy navbar (Bootstrap)
 - Carousel (Jquery)
 - Responsive website (bootstrap)
@@ -89,5 +94,5 @@ https://www.fitnessfirst.com.sg/
 - https://www.sats.se/
 
 
-
+**This is for educational use.** 
  

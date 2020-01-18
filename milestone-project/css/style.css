@@ -18,7 +18,7 @@
 /*-- start navbar---*/
 .navbar{
     padding-top: 0.2rem;
-    padding-right: 1;
+    padding-right: 1em;
     padding-bottom: 0.2rem;
     padding-left: 1rem;
 }
@@ -34,9 +34,7 @@
     transition: all 0.35s ease-in-out;
     }
 
-    .logo:hover {
-    background: #28a745;
-}
+  
 
 /*-- end navbar---*/
 
@@ -48,7 +46,7 @@
    margin: 0 auto;
    background: url(../images/bodybuilding-close-up-dumbbells-equipment-260352.jpg) no-repeat center center; 
   background-size: cover;
-  display: flexbox;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   -webkit-background-size: cover;
@@ -88,8 +86,12 @@ color: #f8f9fa;
     font-style: italic;
     font-family: 'Playfair Display', serif;
     color: #6b9475;
+<<<<<<< HEAD
     margin-bottom:.7em;
-    margin-top: .7em;
+    margin-top:.7em;
+=======
+    margin:0.7em;
+>>>>>>> rameez1822/gitpod-setup
  }
 
 /*----cards----*/
@@ -161,7 +163,11 @@ color: #f8f9fa;
   
 .card-heading {
     margin: 0;
+<<<<<<< HEAD
     padding:0;
+=======
+    padding: 0;
+>>>>>>> rameez1822/gitpod-setup
     font-weight: 700;
     line-height: 1.08;
     display: block;
@@ -213,7 +219,11 @@ footer {
    margin: 0 auto;
    background: url(../images/person-holding-barbell-841128.jpg) no-repeat center center; 
   background-size: cover;
+<<<<<<< HEAD
   display: inline-flex;
+=======
+  display: inline-flexbox;
+>>>>>>> rameez1822/gitpod-setup
   align-items: center;
   justify-content: center;
   -webkit-background-size: cover;
@@ -229,4 +239,8 @@ margin-bottom: .625rem;
 margin-top: 3.625rem;
 color: #fff!important;
 margin: 0;
-  }
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> rameez1822/gitpod-setup
