@@ -34,13 +34,13 @@ In the cards section , i wanted to shoe users the fee struture and spcial offers
 
 ## Surface
 
-The grey colour scheme was inspired by number of defferent websites with my own touch of little green
+The grey colour scheme was inspired by number of different websites with my own touch of little green
 to provide a smooth and nice look. 
 
 
 ## Testing
 
-HTML and CSS has been test on different validators to check for errors 
+HTML and CSS has been tested on different validators to check for errors 
 
 This site was tested across multiple browsers (Chrome, Safari, Internet Explorer, FireFox) and on multiple mobile devices (iPhone 4, 5, 7: Chrome and Safari, iPad, Samsung Galaxy) to ensure compatibility and responsiveness.
 
