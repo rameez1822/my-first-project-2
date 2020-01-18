@@ -67,7 +67,7 @@
 .hero_title {
     font-weight: 600;
     font-size: 4em;
-     color: #f8f9fa;
+    color: #f8f9fa;
 }
 
 .hero-desc{
@@ -85,9 +85,10 @@ color: #f8f9fa;
  .callout-heading{
     font-style: italic;
     font-family: 'Playfair Display', serif;
-    color: #6b9475;
-    margin:0.7em;
- }
+    color:#6b9475;
+    margin-bottom:.7em;
+    margin-top:.7em;
+   }
 
 /*----cards----*/
 
@@ -156,9 +157,9 @@ color: #f8f9fa;
       height: 100%;
   }
   
-.card-heading{
-    margin: 0;
-    padding: 0;
+.card-heading {
+    margin: 0% ;
+    padding:0% ;
     font-weight: 700;
     line-height: 1.08;
     display: block;
@@ -210,8 +211,8 @@ footer {
    margin: 0 auto;
    background: url(../images/person-holding-barbell-841128.jpg) no-repeat center center; 
   background-size: cover;
-  display: inline-flexbox;
-  align-items: center;
+  display: inline-flex;
+   align-items: center;
   justify-content: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
