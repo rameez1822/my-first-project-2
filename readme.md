@@ -8,6 +8,9 @@ So for my first project i wanted to creat a good user expeience which can inspir
 This is a static gym website with simple and sleek design. The whole purpose of creating this site is to provide a simple interface and decent design to make it
 appealing to the users 
 
+## Demo
+A live demo can be found [here](https://rameez1822.github.io/).
+
 ## User stories 
 
 AS a user i expect to see a website for the gym which serves its purpose to provide me all relevent information.
