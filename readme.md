@@ -9,7 +9,7 @@ This is a static gym website with simple and sleek design. The whole purpose of 
 appealing to the users 
 
 ## Demo
-A live demo can be found [here](https://rameez1822.github.io/).
+A live demo can be found [here](https://rameez1822534.github.io/rameez1822.github.io/).
 
 ## User stories 
 
